@@ -1,0 +1,1 @@
+  -LC:/Users/travi/Documents/projects/doom/lib/x64  -lSDL2 -lmingw32 -lsetupapi -limm32 -lwinmm -lversion -lcfgmgr32 -lole32 -lshell32 -ladvapi32 -luser32 -lgdi32 -lkernel32 -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
