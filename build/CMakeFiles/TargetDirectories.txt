@@ -1,3 +1,3 @@
 C:/Users/travi/Documents/projects/doom/build/CMakeFiles/doom.dir
-C:/Users/travi/Documents/projects/doom/build/CMakeFiles/edit_cache.dir
-C:/Users/travi/Documents/projects/doom/build/CMakeFiles/rebuild_cache.dir
+C:/Users/travi/Documents/projects/doom/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/travi/Documents/projects/doom/build/CMakeFiles/ZERO_CHECK.dir
